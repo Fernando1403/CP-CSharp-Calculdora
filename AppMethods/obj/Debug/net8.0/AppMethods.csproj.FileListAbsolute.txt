@@ -1,0 +1,14 @@
+D:\Aula0603\AppMethods\AppMethods\bin\Debug\net8.0\AppMethods.exe
+D:\Aula0603\AppMethods\AppMethods\bin\Debug\net8.0\AppMethods.deps.json
+D:\Aula0603\AppMethods\AppMethods\bin\Debug\net8.0\AppMethods.runtimeconfig.json
+D:\Aula0603\AppMethods\AppMethods\bin\Debug\net8.0\AppMethods.dll
+D:\Aula0603\AppMethods\AppMethods\bin\Debug\net8.0\AppMethods.pdb
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\AppMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\AppMethods.AssemblyInfoInputs.cache
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\AppMethods.AssemblyInfo.cs
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\AppMethods.csproj.CoreCompileInputs.cache
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\AppMethods.dll
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\refint\AppMethods.dll
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\AppMethods.pdb
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\AppMethods.genruntimeconfig.cache
+D:\Aula0603\AppMethods\AppMethods\obj\Debug\net8.0\ref\AppMethods.dll
